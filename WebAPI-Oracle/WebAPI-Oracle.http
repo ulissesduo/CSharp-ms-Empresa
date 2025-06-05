@@ -1,0 +1,6 @@
+@WebAPI_Oracle_HostAddress = http://localhost:5200
+
+GET {{WebAPI_Oracle_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
