@@ -9,8 +9,7 @@ namespace WebAPI_Oracle.Data
         {
         }
 
-        public DbSet<RpgCharacter> RpgCharacter => Set<RpgCharacter>();
-
+        
         public DbSet<Empresa> Empresa { get; set; }
     }
 }
