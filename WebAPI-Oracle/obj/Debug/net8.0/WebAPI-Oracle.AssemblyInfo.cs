@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPI-Oracle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d2e8c126727bb43617ed4fa5fada8311cd942751")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPI-Oracle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPI-Oracle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

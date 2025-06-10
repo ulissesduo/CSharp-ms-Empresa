@@ -141,3 +141,4 @@ C:\Users\Ulisses\source\repos\WebAPI-Oracle\WebAPI-Oracle\obj\Debug\net8.0\WebAP
 C:\Users\Ulisses\source\repos\WebAPI-Oracle\WebAPI-Oracle\obj\Debug\net8.0\WebAPI-Oracle.genruntimeconfig.cache
 C:\Users\Ulisses\source\repos\WebAPI-Oracle\WebAPI-Oracle\obj\Debug\net8.0\ref\WebAPI-Oracle.dll
 C:\Users\Ulisses\source\repos\WebAPI-Oracle\WebAPI-Oracle\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Ulisses\source\repos\WebAPI-Oracle\WebAPI-Oracle\obj\Debug\net8.0\WebAPI-Oracle.sourcelink.json

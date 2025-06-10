@@ -33,7 +33,7 @@ namespace WebAPI_Oracle.Service
             if (empresa == null) return;
             _repository.deleteEmpresa(empresa.Id);
 
-            throw new NotImplementedException();
+           
         }
 
         

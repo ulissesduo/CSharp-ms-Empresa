@@ -3,12 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1613B2DD-655D-472A-97CF-DFE7D2C21763}|msEmpresa.Tests\\msEmpresa.Tests.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\msempresa.tests\\controller\\empresacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1613B2DD-655D-472A-97CF-DFE7D2C21763}|msEmpresa.Tests\\msEmpresa.Tests.csproj|solutionrelative:msempresa.tests\\controller\\empresacontrollertests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\controllers\\empresacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1613B2DD-655D-472A-97CF-DFE7D2C21763}|msEmpresa.Tests\\msEmpresa.Tests.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\msempresa.tests\\service\\empresaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1613B2DD-655D-472A-97CF-DFE7D2C21763}|msEmpresa.Tests\\msEmpresa.Tests.csproj|solutionrelative:msempresa.tests\\service\\empresaservicetests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\service\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\service\\empresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\entity\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\entity\\empresa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\repository\\empresarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\service\\iempresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\service\\iempresaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|c:\\users\\ulisses\\source\\repos\\webapi-oracle\\webapi-oracle\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6461B27F-22B2-4F8F-A487-125BBD78E28C}|WebAPI-Oracle\\WebAPI-Oracle.csproj|solutionrelative:webapi-oracle\\data\\datacontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -23,6 +55,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "EmpresaControllerTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\msEmpresa.Tests\\Controller\\EmpresaControllerTests.cs",
+              "RelativeDocumentMoniker": "msEmpresa.Tests\\Controller\\EmpresaControllerTests.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\msEmpresa.Tests\\Controller\\EmpresaControllerTests.cs",
+              "RelativeToolTip": "msEmpresa.Tests\\Controller\\EmpresaControllerTests.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEEAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-10T01:37:20.611Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EmpresaServiceTests.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\msEmpresa.Tests\\Service\\EmpresaServiceTests.cs",
+              "RelativeDocumentMoniker": "msEmpresa.Tests\\Service\\EmpresaServiceTests.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\msEmpresa.Tests\\Service\\EmpresaServiceTests.cs",
+              "RelativeToolTip": "msEmpresa.Tests\\Service\\EmpresaServiceTests.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAADwv1gAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T19:12:59.132Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EmpresaController.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Controllers\\EmpresaController.cs",
+              "RelativeDocumentMoniker": "WebAPI-Oracle\\Controllers\\EmpresaController.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Controllers\\EmpresaController.cs",
+              "RelativeToolTip": "WebAPI-Oracle\\Controllers\\EmpresaController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwCQAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:43:44.722Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Empresa.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Entity\\Empresa.cs",
+              "RelativeDocumentMoniker": "WebAPI-Oracle\\Entity\\Empresa.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Entity\\Empresa.cs",
+              "RelativeToolTip": "WebAPI-Oracle\\Entity\\Empresa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:43:11.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EmpresaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Service\\EmpresaService.cs",
+              "RelativeDocumentMoniker": "WebAPI-Oracle\\Service\\EmpresaService.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Service\\EmpresaService.cs",
+              "RelativeToolTip": "WebAPI-Oracle\\Service\\EmpresaService.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowCMAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-07T15:39:56.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EmpresaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Repository\\EmpresaRepository.cs",
+              "RelativeDocumentMoniker": "WebAPI-Oracle\\Repository\\EmpresaRepository.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Repository\\EmpresaRepository.cs",
+              "RelativeToolTip": "WebAPI-Oracle\\Repository\\EmpresaRepository.cs",
+              "ViewState": "AgIAACMAAAAAAAAAAAAcwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:19:15.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IEmpresaService.cs",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Service\\IEmpresaService.cs",
+              "RelativeDocumentMoniker": "WebAPI-Oracle\\Service\\IEmpresaService.cs",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Service\\IEmpresaService.cs",
+              "RelativeToolTip": "WebAPI-Oracle\\Service\\IEmpresaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T23:15:12.801Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\appsettings.json",
+              "RelativeDocumentMoniker": "WebAPI-Oracle\\appsettings.json",
+              "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\appsettings.json",
+              "RelativeToolTip": "WebAPI-Oracle\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-06-05T01:48:41.22Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
               "Title": "DataContext.cs",
               "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Data\\DataContext.cs",
               "RelativeDocumentMoniker": "WebAPI-Oracle\\Data\\DataContext.cs",
@@ -30,21 +161,19 @@
               "RelativeToolTip": "WebAPI-Oracle\\Data\\DataContext.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T01:40:44.124Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-05T01:40:44.124Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Program.cs",
               "RelativeDocumentMoniker": "WebAPI-Oracle\\Program.cs",
               "ToolTip": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\Program.cs",
               "RelativeToolTip": "WebAPI-Oracle\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T01:11:15.755Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-06-04T01:11:15.755Z"
             }
           ]
         }
