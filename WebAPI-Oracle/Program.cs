@@ -1,5 +1,6 @@
 using Microsoft.EntityFrameworkCore;
 using WebAPI_Oracle.Data;
+using WebAPI_Oracle.Dto;
 using WebAPI_Oracle.Repository;
 using WebAPI_Oracle.Service;
 
@@ -11,6 +12,7 @@ builder.Services.AddControllers();
 
 builder.Services.AddScoped<IEmpresaRepository, EmpresaRepository>();
 builder.Services.AddScoped<IEmpresaService, EmpresaService>();
+builder.Services.AddAutoMapper(typeof(Program));
 
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle

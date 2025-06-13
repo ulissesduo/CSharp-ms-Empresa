@@ -27,17 +27,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               }
             }
@@ -63,17 +63,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Empresa"
+                "$ref": "#/components/schemas/EmpresaRequestDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Empresa"
+                "$ref": "#/components/schemas/EmpresaRequestDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Empresa"
+                "$ref": "#/components/schemas/EmpresaRequestDTO"
               }
             }
           }
@@ -84,17 +84,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               }
             }
@@ -136,7 +136,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Empresa"
+                    "$ref": "#/components/schemas/EmpresaResponseDTO"
                   }
                 }
               },
@@ -144,7 +144,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Empresa"
+                    "$ref": "#/components/schemas/EmpresaResponseDTO"
                   }
                 }
               },
@@ -152,7 +152,7 @@
                 "schema": {
                   "type": "array",
                   "items": {
-                    "$ref": "#/components/schemas/Empresa"
+                    "$ref": "#/components/schemas/EmpresaResponseDTO"
                   }
                 }
               }
@@ -168,17 +168,17 @@
           "content": {
             "application/json": {
               "schema": {
-                "$ref": "#/components/schemas/Empresa"
+                "$ref": "#/components/schemas/EmpresaRequestDTO"
               }
             },
             "text/json": {
               "schema": {
-                "$ref": "#/components/schemas/Empresa"
+                "$ref": "#/components/schemas/EmpresaRequestDTO"
               }
             },
             "application/*+json": {
               "schema": {
-                "$ref": "#/components/schemas/Empresa"
+                "$ref": "#/components/schemas/EmpresaRequestDTO"
               }
             }
           }
@@ -189,17 +189,17 @@
             "content": {
               "text/plain": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               },
               "application/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               },
               "text/json": {
                 "schema": {
-                  "$ref": "#/components/schemas/Empresa"
+                  "$ref": "#/components/schemas/EmpresaResponseDTO"
                 }
               }
             }
@@ -210,7 +210,25 @@
   },
   "components": {
     "schemas": {
-      "Empresa": {
+      "EmpresaRequestDTO": {
+        "type": "object",
+        "properties": {
+          "nomeEmpresa": {
+            "type": "string",
+            "nullable": true
+          },
+          "cnpj": {
+            "type": "string",
+            "nullable": true
+          },
+          "setorAtividade": {
+            "type": "string",
+            "nullable": true
+          }
+        },
+        "additionalProperties": false
+      },
+      "EmpresaResponseDTO": {
         "type": "object",
         "properties": {
           "id": {

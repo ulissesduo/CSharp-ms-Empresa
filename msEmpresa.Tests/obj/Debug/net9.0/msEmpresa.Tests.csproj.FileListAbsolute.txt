@@ -143,3 +143,4 @@ C:\Users\Ulisses\source\repos\WebAPI-Oracle\msEmpresa.Tests\obj\Debug\net9.0\ref
 C:\Users\Ulisses\source\repos\WebAPI-Oracle\msEmpresa.Tests\obj\Debug\net9.0\msEmpresa.Tests.pdb
 C:\Users\Ulisses\source\repos\WebAPI-Oracle\msEmpresa.Tests\obj\Debug\net9.0\msEmpresa.Tests.genruntimeconfig.cache
 C:\Users\Ulisses\source\repos\WebAPI-Oracle\msEmpresa.Tests\obj\Debug\net9.0\ref\msEmpresa.Tests.dll
+C:\Users\Ulisses\source\repos\WebAPI-Oracle\msEmpresa.Tests\bin\Debug\net9.0\AutoMapper.dll

@@ -8,6 +8,7 @@
     ".NETCoreApp,Version=v9.0": {
       "msEmpresa.Tests/1.0.0": {
         "dependencies": {
+          "AutoMapper": "14.0.0",
           "Microsoft.AspNetCore.Mvc": "2.3.0",
           "Microsoft.NET.Test.Sdk": "17.12.0",
           "Moq": "4.20.72",
@@ -18,6 +19,17 @@
         },
         "runtime": {
           "msEmpresa.Tests.dll": {}
+        }
+      },
+      "AutoMapper/14.0.0": {
+        "dependencies": {
+          "Microsoft.Extensions.Options": "9.0.5"
+        },
+        "runtime": {
+          "lib/net8.0/AutoMapper.dll": {
+            "assemblyVersion": "14.0.0.0",
+            "fileVersion": "14.0.0.0"
+          }
         }
       },
       "Castle.Core/5.1.1": {
@@ -1767,6 +1779,7 @@
       "xunit.runner.visualstudio/2.8.2": {},
       "WebAPI-Oracle/1.0.0": {
         "dependencies": {
+          "AutoMapper": "14.0.0",
           "Microsoft.EntityFrameworkCore": "9.0.5",
           "Oracle.EntityFrameworkCore": "9.23.80",
           "Swashbuckle.AspNetCore": "6.6.2"
@@ -1785,6 +1798,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "AutoMapper/14.0.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-OC+1neAPM4oCCqQj3g2GJ2shziNNhOkxmNB9cVS8jtx4JbgmRzLcUOxB9Tsz6cVPHugdkHgCaCrTjjSI0Z5sCQ==",
+      "path": "automapper/14.0.0",
+      "hashPath": "automapper.14.0.0.nupkg.sha512"
     },
     "Castle.Core/5.1.1": {
       "type": "package",

@@ -9,7 +9,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.List\u00601[[WebAPI_Oracle.Entity.Empresa, WebAPI-Oracle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.List\u00601[[WebAPI_Oracle.Dto.EmpresaResponseDTO, WebAPI-Oracle, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -28,14 +28,14 @@
     "Order": 0,
     "Parameters": [
       {
-        "Name": "empresa",
-        "Type": "WebAPI_Oracle.Entity.Empresa",
+        "Name": "empresaRequestDto",
+        "Type": "WebAPI_Oracle.Dto.EmpresaRequestDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "WebAPI_Oracle.Entity.Empresa",
+        "Type": "WebAPI_Oracle.Dto.EmpresaResponseDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -61,7 +61,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "WebAPI_Oracle.Entity.Empresa",
+        "Type": "WebAPI_Oracle.Dto.EmpresaResponseDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -85,14 +85,14 @@
         "IsRequired": true
       },
       {
-        "Name": "empresa",
-        "Type": "WebAPI_Oracle.Entity.Empresa",
+        "Name": "empresaRequestDto",
+        "Type": "WebAPI_Oracle.Dto.EmpresaRequestDTO",
         "IsRequired": true
       }
     ],
     "ReturnTypes": [
       {
-        "Type": "WebAPI_Oracle.Entity.Empresa",
+        "Type": "WebAPI_Oracle.Dto.EmpresaResponseDTO",
         "MediaTypes": [
           "text/plain",
           "application/json",

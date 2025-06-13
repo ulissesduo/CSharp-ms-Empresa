@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "bi8PYm1XpLM=",
+  "dgSpecHash": "3LoAKA7veWo=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\msEmpresa.Tests\\msEmpresa.Tests.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ulisses\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Ulisses\\.nuget\\packages\\castle.core\\5.1.1\\castle.core.5.1.1.nupkg.sha512",
     "C:\\Users\\Ulisses\\.nuget\\packages\\coverlet.collector\\6.0.2\\coverlet.collector.6.0.2.nupkg.sha512",
     "C:\\Users\\Ulisses\\.nuget\\packages\\microsoft.aspnetcore.antiforgery\\2.3.0\\microsoft.aspnetcore.antiforgery.2.3.0.nupkg.sha512",

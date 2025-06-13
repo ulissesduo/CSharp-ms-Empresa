@@ -1,9 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "L4R7lItczkA=",
+  "dgSpecHash": "AyHKaScia/Y=",
   "success": true,
   "projectFilePath": "C:\\Users\\Ulisses\\source\\repos\\WebAPI-Oracle\\WebAPI-Oracle\\WebAPI-Oracle.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\Ulisses\\.nuget\\packages\\automapper\\14.0.0\\automapper.14.0.0.nupkg.sha512",
     "C:\\Users\\Ulisses\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Ulisses\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\Ulisses\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",
