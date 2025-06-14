@@ -11,10 +11,11 @@
 using System;
 using System.Reflection;
 
+[assembly: Microsoft.Extensions.Configuration.UserSecrets.UserSecretsIdAttribute("b45df814-efa5-4ffc-8008-fb6c9025d48b")]
 [assembly: System.Reflection.AssemblyCompanyAttribute("WebAPI-Oracle")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+bf1577d4208e8e0de76d649555c3c3caac3388e6")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+025b7dd5ed598107cd1cbc84d3771c746cb1da6b")]
 [assembly: System.Reflection.AssemblyProductAttribute("WebAPI-Oracle")]
 [assembly: System.Reflection.AssemblyTitleAttribute("WebAPI-Oracle")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
